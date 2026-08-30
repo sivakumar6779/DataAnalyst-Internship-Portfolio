@@ -1,6 +1,6 @@
 # 📊 Data Analytics Internship Portfolio — ApexPlanet Software Pvt. Ltd.
 
-**Intern Name:** [Your Name]
+**Intern Name:** Siva Kumar.
 **Program:** 60-Day Data Analytics Internship
 **Organization:** ApexPlanet Software Pvt. Ltd.
 **Website:** [www.apexplanet.in](https://www.apexplanet.in)
